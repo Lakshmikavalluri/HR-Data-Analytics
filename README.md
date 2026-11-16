@@ -61,10 +61,9 @@ HR-Data-Analytics/
 ## Dashboard Preview
 
 ### Power BI Dashboard
-![Power BI Dashboard](images/powerbi-dashboard.png)
+![Power BI Dashboard](images/powerbi-dashboard.jpg)
 
-### Tableau Dashboard
-![Tableau Dashboard](images/tableau-dashboard.png)
+![Tableau Dashboard](images/tableau-dashboard.jpg)
 
 ---
 
